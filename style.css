@@ -1,0 +1,75 @@
+/* General styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 20px;
+    background-color: #ffffff;
+    color: #333;
+}
+
+/* Main Title */
+#mainTitle {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+h1 {
+    font-size: 2em;
+    color: #222;
+}
+
+/* Section styles */
+section {
+    background: rgb(147, 252, 243);
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Experience */
+.job {
+    margin-bottom: 20px;
+}
+
+h4 {
+    font-size: 1.2em;
+    color: #444;
+}
+
+h5 {
+    font-size: 1em;
+    color: #666;
+}
+
+ul {
+    list-style-type: disc;
+    padding-left: 20px;
+}
+
+/* Education */
+.school h4 {
+    font-size: 1.2em;
+    color: #444;
+}
+
+/* About */
+#about p {
+    font-style: italic;
+    line-height: 1.5;
+}
+
+/* Contact */
+#contact {
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+#contact a {
+    color: #0073e6;
+    text-decoration: none;
+}
+
+#contact a:hover {
+    text-decoration: underline;
+}
